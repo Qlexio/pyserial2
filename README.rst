@@ -16,6 +16,8 @@ Here are the steps for the next months:
 
 * Spread the repository over Pypi
 
+* Update the official documentation
+
 
 Overview
 ========
