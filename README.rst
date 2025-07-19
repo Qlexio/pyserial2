@@ -2,7 +2,7 @@
  pySerial  |build-status| |docs|
 =================================
 
-------
+
 Update
 ======
 This project, initially led by Chris Lietchi, is not maintained anymore since a couple of years.
@@ -12,7 +12,7 @@ Here are the steps for the next months:
 * Managing the PR
 * Copy the issues to keep a track on this repository
 * Spread the repository over Pypi
-------
+
 
 Overview
 ========
