@@ -9,8 +9,11 @@ This project, initially led by Chris Lietchi, is not maintained anymore since a 
 Without any response from Chris Lietchi, the PySerial is brought back to life here.
 
 Here are the steps for the next months:
+
 * Managing the PR
+
 * Copy the issues to keep a track on this repository
+
 * Spread the repository over Pypi
 
 
