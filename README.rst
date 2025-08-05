@@ -10,13 +10,13 @@ Without any response from Chris Lietchi, the PySerial is brought back to life he
 
 Here are the steps for the next months:
 
-* Managing the PR
+* [ ] Managing the PR
 
-* Copy the issues to keep a track on this repository
+* [X] Copy the issues to keep a track on this repository
 
-* Spread the repository over Pypi
+* [ ] Spread the repository over Pypi
 
-* Update the official documentation
+* [ ] Update the official documentation
 
 
 Overview
